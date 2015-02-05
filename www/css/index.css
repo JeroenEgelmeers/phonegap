@@ -21,6 +21,7 @@
     margin: 0;
 }
 
+html { height: 100%; }
 
 .website-container {
     min-height: 100%;
@@ -51,7 +52,6 @@ body {
     height:100%;
     margin:0px;
     padding:0px;
-    text-transform:uppercase;
     width:100%;
 }
 
