@@ -127,7 +127,7 @@ h1 {
 
 header { height:50px; width:100%;  background:#2e2e2e; }
 content { background:#d4d5d5; }
-    .box { margin:10px 5%; font-size:20px; width:85%; padding:10px; background:#f5f5f5; border:1px solid #2e2e2e; }
+    .box { margin:10px 5%; font-size:30px; width:85%; padding:10px; background:#f5f5f5; border:1px solid #2e2e2e; }
 
 
 footer { text-align:center; padding-top:10px; height:30px; font-size:10px; color:#FFF; background:#3a3a3a; }
